@@ -1,0 +1,19 @@
+.daimg {
+    width: 300px !important;
+    height: 150px !important;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+body {
+    text-align: center;
+    background: linear-gradient(to bottom right,blue,lightblue,yellow);
+    background-repeat: no-repeat;
+}
+.mdiv {
+    display: flex;
+    justify-content: center;
+}
+.idiv {
+    margin-left: 5%;
+    margin-right: 5%;
+}
